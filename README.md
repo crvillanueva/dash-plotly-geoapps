@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/69276157/120119104-deded280-c163-11eb-
 
 Live link: https://mapa-em-caudales-vertientes.herokuapp.com/
 
-Dashboard que muestra la ubicación de muestras hidrogeoquímicas y sus concentraciones de elementos mayores, además de los caudales medidos en un estudio hidrogeológico en la península de Tumbes.
+Dashboard que muestra la ubicación de muestras hidrogeoquímicas y sus concentraciones de elementos mayores, además de los caudales medidos en un estudio hidrogeológico en la península de Tumbes. Para poder ver el mapa satelital necesitas tu propio [token de mapbox](https://docs.mapbox.com/api/accounts/tokens/) en la sección "set_mapbox_access_token" del código.
 
 ## Dashboard para análisis de correlación de elementos con un diagrama scatter
 
@@ -21,4 +21,4 @@ Dashboard que permite ver un diagrama binario para analizar las relaciones entre
 
 https://user-images.githubusercontent.com/69276157/120117950-e13e2e00-c15d-11eb-808c-2d716510d47e.mp4
 
-Dashboard con ubicación y magnitud de los últimos sismos realizado a partir de información obtenida desde la [API de la USGS](https://earthquake.usgs.gov/fdsnws/event/1/) (recuerda proporcionar tu propia key para la API).
+Dashboard con ubicación y magnitud de los últimos sismos realizado a partir de información obtenida desde la [API de la USGS](https://earthquake.usgs.gov/fdsnws/event/1/).
