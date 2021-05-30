@@ -1,5 +1,5 @@
 # dash-plotly-geoapps
-Repo compilatorio del código fuente de aplicaciones geologicas interactivas creadas con dash. Entre las aplicaciones encontramos:
+Repo compilatorio del código fuente de aplicaciones geológicas interactivas creadas con [Dash](https://plotly.com/dash/). Entre las aplicaciones encontramos:
 
 ## Dashboards caudales y gráfico de barras de elementos mayores
 
@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/69276157/120119230-89ef8c00-c164-11eb-
 
 Live link: https://vertientes-scatter-reg.herokuapp.com/
 
-Dashboard que permite ver un diagrama binario para analizar las relaciones entre elementos, es posible filtrar muestra con un % de error en el balance iónico de un valor arbitrario, además de quitar muestras en específico.
+Dashboard que permite ver un diagrama binario para analizar las relaciones entre elementos. Es posible filtrar muestras con un % de error en el balance iónico de un valor arbitrario, además de quitar muestras en específico.
 
 ## Dashboard terremotos
 
