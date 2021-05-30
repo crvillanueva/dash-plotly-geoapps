@@ -1,0 +1,145 @@
+parametro,valor,muestra
+E,-73.1136944439842,PT01
+N,-36.7201527776924,PT01
+nombre,Serrano Cerro David Fuentes,PT01
+Na (mg/L),35.3,PT01
+K (mg/L),2.14,PT01
+Ca (mg/L),35.1,PT01
+Mg (mg/L),22.0,PT01
+Cl (mg/L),63.9,PT01
+HCO3 (mg/L),134.0,PT01
+SO4 (mg/L),71.00,PT01
+CO3 (mg/L),,PT01
+SiO2 (mg/L),32.5,PT01
+E,-73.1270972216078,PT02
+N,-36.714383333150394,PT02
+nombre,Santa Julia,PT02
+Na (mg/L),16.2,PT02
+K (mg/L),1.0,PT02
+Ca (mg/L),1.3,PT02
+Mg (mg/L),2.8,PT02
+Cl (mg/L),24.0,PT02
+HCO3 (mg/L),14.0,PT02
+SO4 (mg/L),,PT02
+CO3 (mg/L),,PT02
+SiO2 (mg/L),16.4,PT02
+E,-73.12902222229441,PT03
+N,-36.7187305560144,PT03
+nombre,Baroa Bajo,PT03
+Na (mg/L),22.2,PT03
+K (mg/L),0.96,PT03
+Ca (mg/L),6.4,PT03
+Mg (mg/L),11.5,PT03
+Cl (mg/L),36.2,PT03
+HCO3 (mg/L),15.6,PT03
+SO4 (mg/L),,PT03
+CO3 (mg/L),,PT03
+SiO2 (mg/L),12.7,PT03
+E,-73.1285127710718,PT04
+N,-36.7205343338326,PT04
+nombre,Juan Chavez,PT04
+Na (mg/L),25.4,PT04
+K (mg/L),1.6,PT04
+Ca (mg/L),16.3,PT04
+Mg (mg/L),10.0,PT04
+Cl (mg/L),40.4,PT04
+HCO3 (mg/L),48.2,PT04
+SO4 (mg/L),11.00,PT04
+CO3 (mg/L),11.70,PT04
+SiO2 (mg/L),10.4,PT04
+E,-73.1247962729727,PT05
+N,-36.7197112340816,PT05
+nombre,La Torre,PT05
+Na (mg/L),24.1,PT05
+K (mg/L),1.66,PT05
+Ca (mg/L),9.25,PT05
+Mg (mg/L),8.5,PT05
+Cl (mg/L),33.3,PT05
+HCO3 (mg/L),34.4,PT05
+SO4 (mg/L),11.40,PT05
+CO3 (mg/L),3.60,PT05
+SiO2 (mg/L),12.8,PT05
+E,-73.098386111455,PT06
+N,-36.6443333330084,PT06
+nombre,San Juan Tumbes,PT06
+Na (mg/L),15.2,PT06
+K (mg/L),1.42,PT06
+Ca (mg/L),2.94,PT06
+Mg (mg/L),2.3,PT06
+Cl (mg/L),20.4,PT06
+HCO3 (mg/L),25.0,PT06
+SO4 (mg/L),,PT06
+CO3 (mg/L),,PT06
+SiO2 (mg/L),16.6,PT06
+E,-73.1345428914693,PT07
+N,-36.7212082536109,PT07
+nombre,La Gloria,PT07
+Na (mg/L),26.5,PT07
+K (mg/L),2.56,PT07
+Ca (mg/L),25.2,PT07
+Mg (mg/L),7.0,PT07
+Cl (mg/L),33.7,PT07
+HCO3 (mg/L),55.5,PT07
+SO4 (mg/L),14.00,PT07
+CO3 (mg/L),,PT07
+SiO2 (mg/L),13.8,PT07
+E,-73.13218047459009,PT08
+N,-36.7137369249377,PT08
+nombre,Los Cipreses,PT08
+Na (mg/L),35.0,PT08
+K (mg/L),1.02,PT08
+Ca (mg/L),7.65,PT08
+Mg (mg/L),10.5,PT08
+Cl (mg/L),49.3,PT08
+HCO3 (mg/L),9.76,PT08
+SO4 (mg/L),,PT08
+CO3 (mg/L),,PT08
+SiO2 (mg/L),9.89,PT08
+E,-73.12236666678841,PT09
+N,-36.709613888758,PT09
+nombre,Vista Hermosa,PT09
+Na (mg/L),14.3,PT09
+K (mg/L),0.55,PT09
+Ca (mg/L),2.36,PT09
+Mg (mg/L),4.5,PT09
+Cl (mg/L),26.2,PT09
+HCO3 (mg/L),17.7,PT09
+SO4 (mg/L),,PT09
+CO3 (mg/L),,PT09
+SiO2 (mg/L),11.9,PT09
+E,-73.1184981714723,PT10
+N,-36.7103664985518,PT10
+nombre,28 de Octubre Cerro Cornou,PT10
+Na (mg/L),16.9,PT10
+K (mg/L),0.6,PT10
+Ca (mg/L),2.04,PT10
+Mg (mg/L),8.5,PT10
+Cl (mg/L),27.7,PT10
+HCO3 (mg/L),22.9,PT10
+SO4 (mg/L),,PT10
+CO3 (mg/L),,PT10
+SiO2 (mg/L),15.2,PT10
+E,-73.12119212970691,PT11
+N,-36.6954763107505,PT11
+nombre,Estrella Azul,PT11
+Na (mg/L),24.5,PT11
+K (mg/L),1.1,PT11
+Ca (mg/L),2.65,PT11
+Mg (mg/L),9.0,PT11
+Cl (mg/L),37.6,PT11
+HCO3 (mg/L),12.8,PT11
+SO4 (mg/L),,PT11
+CO3 (mg/L),,PT11
+SiO2 (mg/L),15.5,PT11
+E,-73.11742317137201,PT12
+N,-36.6925853881861,PT12
+nombre,Pozo Tola,PT12
+Na (mg/L),22.8,PT12
+K (mg/L),12.7,PT12
+Ca (mg/L),9.5,PT12
+Mg (mg/L),4.5,PT12
+Cl (mg/L),31.9,PT12
+HCO3 (mg/L),30.5,PT12
+SO4 (mg/L),39.70,PT12
+CO3 (mg/L),,PT12
+SiO2 (mg/L),9.26,PT12
