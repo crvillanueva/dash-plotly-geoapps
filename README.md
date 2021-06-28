@@ -21,4 +21,4 @@ Dashboard que permite ver un diagrama binario para analizar las relaciones entre
 
 https://user-images.githubusercontent.com/69276157/120117950-e13e2e00-c15d-11eb-808c-2d716510d47e.mp4
 
-Dashboard con ubicación y magnitud de los últimos sismos realizado a partir de información obtenida desde la [API de la USGS](https://earthquake.usgs.gov/fdsnws/event/1/).
+Dashboard con ubicación y magnitud de los sismos más recientes. Realizado a partir de información obtenida desde la [API de la USGS](https://earthquake.usgs.gov/fdsnws/event/1/).
